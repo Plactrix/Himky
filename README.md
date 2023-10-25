@@ -1,6 +1,8 @@
 # Hye Himky
 
 ![image](public/logo.png)
-Hye Himky is not for commerical use.
+
+
+See LICENSE.MD for licensing details
 
 Next generation rackspace management solution
